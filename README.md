@@ -12,5 +12,6 @@ Anime has a pretty well-known reputation for creating men of culture. That’s a
 indication that anime fans can be profoundly affected by the medium. In addition, many prolific
 open source contributors have anime characters as their profile picture. So that got me to thinking,
 does being a fan of anime also make you a more intelligent person? [(...)](https://h313.info/blog/github/anime/google-cloud/2020/07/31/does-having-an-anime-profile-picture-make-you-a-better-programmer.html)"
-
-![](https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg" height="300" width="500"/>
+</p>
