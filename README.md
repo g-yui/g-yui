@@ -14,5 +14,6 @@ open source contributors have anime characters as their profile picture. So that
 does being a fan of anime also make you a more intelligent person? [(...)](https://h313.info/blog/github/anime/google-cloud/2020/07/31/does-having-an-anime-profile-picture-make-you-a-better-programmer.html)
 
 <p align="center">
+<a href='https://github.com/h313/anime-face'>
 <img src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg" height="300" width="500"/>
 </p>
