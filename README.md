@@ -1,4 +1,4 @@
-# Extract from a wise weeb
+# Extract from a man of culture
 
 Does Having an Anime Profile Picture Make You a Better Programmer?
 
